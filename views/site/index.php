@@ -1,8 +1,8 @@
-<?php
+﻿<?php
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'My Yii Apploiiiiiication';
 ?>
 <section id="slider"><!--slider-->
     <div class="container">
